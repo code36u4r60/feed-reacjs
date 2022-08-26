@@ -10,7 +10,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 </p>
 
-## Sobre o desafio 🚀
+## 🚀 Sobre o projeto
 
 Projeto desenvolvido durante a formação [Reactjs da Trilha Ignite - Rocketseat](https://lp.rocketseat.com.br/ignite-rocketseat-2).
 
